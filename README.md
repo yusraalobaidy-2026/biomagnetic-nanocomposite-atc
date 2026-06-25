@@ -3,7 +3,9 @@
  
  📢 Availability Notice⚠️
  Data & Code Release: All datasets, figures, and simulator source code will be fully available and open-sourced immediately after the peer-reviewed paper is officially accepted.
- 🔬 Overview & Key Findings1. Green Synthesis & CharacterizationMethod: Multi-step green synthesis utilizing Ficus carica (Fig) leaf extract for the Fe₃O₄ core reduction.
+ 
+ 🔬 Overview & Key Findings
+ 1. Green Synthesis & CharacterizationMethod: Multi-step green synthesis utilizing Ficus carica (Fig) leaf extract for the Fe₃O₄ core reduction.
   
 📢  Machine Learning: Machine-learning interatomic potentials (MACE-MP-0).Insights ⚠️: 
  
