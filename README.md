@@ -3,7 +3,9 @@
   
   📑 Journal Submission Status
   
-  This research paper has been officially submitted for consideration to Scientific Reports (a Nature Portfolio journal). For more information about the journal, visit the official website: Scientific Reports | Nature.
+  This research paper has been officially submitted for consideration to Scientific Reports (a Nature Portfolio journal). For more information about the journal, visit the official website: Scientific Reports | Nature <https://nature.com>.
+  
+
  
  🔬 Overview & Key Findings
   
