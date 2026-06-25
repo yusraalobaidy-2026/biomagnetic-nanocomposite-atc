@@ -14,7 +14,8 @@
  
  .📂 Repository Contents (Post-Acceptance)
  
- Once published, this repository will include:💻 Simulator Source Code: Scripts for the GFN2-xTB, sTDA, and MACE-MP-0 workflow.
+ Once published, this repository will include:
+ 💻 Simulator Source Code: Scripts for the GFN2-xTB, sTDA, and MACE-MP-0 workflow.
  
- 📊 Dataset: Raw and processed data from thermodynamic evaluations and MTT/fluorescence assays.
+ 📊 Dataset: Raw and processed dataset and the generated dataset from thermodynamic evaluations and MTT/fluorescence assays.
  🖼️ Figures: High-resolution scientific figures and chemical structures.
